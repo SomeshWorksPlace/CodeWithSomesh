@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CodeWithSomesh.Hackerrank_30Days.ClassVSinterface.Person</StartupObject>
+    <StartupObject>CodeWithSomesh.Hackerrank_30DaysCode.Day3_Intro_to_Conditional_Statements.Solution</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,7 +50,11 @@
     <Compile Include="CodingWithPractice\RevreseOfString.cs" />
     <Compile Include="CodingWithPractice\swapNumbers.cs" />
     <Compile Include="CodingWithPractice\VowelChceking.cs" />
-    <Compile Include="Hackerrank_30Days\ClassVSinterface.cs" />
+    <Compile Include="Hackerrank_30DaysCode\Day0_Hello,World.cs" />
+    <Compile Include="Hackerrank_30DaysCode\Day1DataType.cs" />
+    <Compile Include="Hackerrank_30DaysCode\Day2Operator.cs" />
+    <Compile Include="Hackerrank_30DaysCode\Day3_Intro_to_Conditional_Statements.cs" />
+    <Compile Include="Hackerrank_30DaysCode\Day4ClassvsInstance.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
