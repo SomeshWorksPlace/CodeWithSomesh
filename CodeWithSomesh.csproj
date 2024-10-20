@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CodeWithSomesh.Hackerrank_30DaysCode.Day3_Intro_to_Conditional_Statements.Solution</StartupObject>
+    <StartupObject>CodeWithSomesh.Concept_Clear.OOPS.Object.Dog</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,15 +46,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="C#_Certification\BooleanExpression_Challenge.cs" />
+    <Compile Include="C#_Certification\FlipCoin.cs" />
     <Compile Include="CodeWithCollection\CodeWithDictionary.cs" />
+    <Compile Include="CodeWithCollection\demo.cs" />
+    <Compile Include="CodeWithCollection\Demom.cs" />
     <Compile Include="CodingWithPractice\RevreseOfString.cs" />
     <Compile Include="CodingWithPractice\swapNumbers.cs" />
     <Compile Include="CodingWithPractice\VowelChceking.cs" />
+    <Compile Include="Concept_Clear\OOPS\Object.cs" />
     <Compile Include="Hackerrank_30DaysCode\Day0_Hello,World.cs" />
     <Compile Include="Hackerrank_30DaysCode\Day1DataType.cs" />
     <Compile Include="Hackerrank_30DaysCode\Day2Operator.cs" />
     <Compile Include="Hackerrank_30DaysCode\Day3_Intro_to_Conditional_Statements.cs" />
     <Compile Include="Hackerrank_30DaysCode\Day4ClassvsInstance.cs" />
+    <Compile Include="Hackerrank_30DaysCode\Day5Loops.cs" />
+    <Compile Include="Hackerrank_30DaysCode\Day6Lets_Review.cs" />
+    <Compile Include="Hackerrank_30DaysCode\Day7Array.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
