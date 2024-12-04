@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CodeWithSomesh.Concept_Clear.OOPS.Object.Dog</StartupObject>
+    <StartupObject>CodeWithSomesh.CodingWithPractice.RevreseOfString</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -51,10 +51,15 @@
     <Compile Include="CodeWithCollection\CodeWithDictionary.cs" />
     <Compile Include="CodeWithCollection\demo.cs" />
     <Compile Include="CodeWithCollection\Demom.cs" />
+    <Compile Include="CodeWith_DSA\Arrays-DS.cs" />
+    <Compile Include="CodeWith_DSA\List.cs" />
+    <Compile Include="CodingWithPractice\reverse_OfString_Words.cs" />
     <Compile Include="CodingWithPractice\RevreseOfString.cs" />
     <Compile Include="CodingWithPractice\swapNumbers.cs" />
     <Compile Include="CodingWithPractice\VowelChceking.cs" />
+    <Compile Include="Concept_Clear\OOPS\Inheritance.cs" />
     <Compile Include="Concept_Clear\OOPS\Object.cs" />
+    <Compile Include="Concept_Clear\OOPS\Reverse_of_String.cs" />
     <Compile Include="Hackerrank_30DaysCode\Day0_Hello,World.cs" />
     <Compile Include="Hackerrank_30DaysCode\Day1DataType.cs" />
     <Compile Include="Hackerrank_30DaysCode\Day2Operator.cs" />

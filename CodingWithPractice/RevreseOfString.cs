@@ -10,8 +10,7 @@ namespace CodeWithSomesh.CodingWithPractice
     //WAP to revrese the string 
     internal class RevreseOfString
     {
-
-          public void Revrese(String input)
+        public void Revrese(String input)
           {
             
                     var strlogic = input.ToCharArray();
@@ -30,7 +29,7 @@ namespace CodeWithSomesh.CodingWithPractice
         {
 
             RevreseOfString obj= new RevreseOfString();
-            obj.Revrese("SOMESHWAR");
+            obj.Revrese("SHRADDHA SUDHAKAR NEWARE");
 
             Console.ReadLine();
 
@@ -38,7 +37,7 @@ namespace CodeWithSomesh.CodingWithPractice
         }
 
     }
-    }
+}
 
 /*
 ----------------------------------------------------------------------------------------------------------
